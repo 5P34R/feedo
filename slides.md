@@ -38,23 +38,24 @@ The last comment block of each slide will be treated as slide notes. It will be 
 <br>
 
 - Most of the fish farmers suffer great loss due to the improper maintain Ph and temperature of the   water body.
+- Fish farmers had to move long distance through water just to feed fishes.
 - In most cases ,unexperienced farmers faces the problem of uneven distribution of food which leads to non uniform growth of fishes and remaining food leads growth to the accumulation of ammonia in water. 
--Fish farmers had to move long distance through water just to feed fishes.
+  
+- Due to busy schedules owners cannot feed properly.
 
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
+- Due to the feeding many owners cannot spend time outside
 
+---
+
+# FEEDO 
+
+Aquatic farm assistant
 <br>
 <br>
 
-Read more about [Why Slidev?](https://sli.dev/guide/why)
-
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/guide/syntax#embedded-styles
--->
+<p class="p-5px mt-[10%]">
+Feedo is a semi-automatic fish feeder aquatic robo, which work as fish pond environment parameter analyzer to assist aquatic-farmers. Feedo help the fish farmers in minimizing the headache of managing the fish farm manually. The aquatic robo device can keep track of the pH and temperature of water body. Feedo alert the farmers when the parameters go below or above a specified range. Feedo can be used to feed fish and the device is software controlled.Data collected by the device is uploaded into a cloud server which can be accessed by the farmer whenever or wherever they want.
+</p>
 
 <style>
 h1 {
@@ -67,57 +68,28 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 </style>
-
+---
+layout: center
 ---
 
-# Navigation
+# FEEDO v1
+<br>
+<br>
 
-Hover on the bottom-left corner to see the navigation's controls panel, [learn more](https://sli.dev/guide/navigation.html)
 
-### Keyboard Shortcuts
+```text {all|1}
+- For aquariums and small scale water bodies
 
-|     |     |
-| --- | --- |
-| <kbd>right</kbd> / <kbd>space</kbd>| next animation or slide |
-| <kbd>left</kbd>  / <kbd>shift</kbd><kbd>space</kbd> | previous animation or slide |
-| <kbd>up</kbd> | previous slide |
-| <kbd>down</kbd> | next slide |
 
-<!-- https://sli.dev/guide/animations.html#click-animations -->
-<img
-  v-click
-  class="absolute -bottom-9 -left-7 w-80 opacity-50"
-  src="https://sli.dev/assets/arrow-bottom-left.svg"
-/>
-<p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
+- Have Wifi module and android app for real time check
 
----
-layout: image-right
-image: https://source.unsplash.com/collection/94734566/1920x1080
----
 
-# Code
+- Checks the PH and temperature of water frequently
 
-Use code snippets and get the highlighting directly![^1]
 
-```ts {all|2|1-6|9|all}
-interface User {
-  id: number
-  firstName: string
-  lastName: string
-  role: string
-}
+- Attached with water-pump and feed the fished as such the user defined 
 
-function updateUser(id: number, update: User) {
-  const user = getUser(id)
-  const newUser = {...user, ...update}  
-  saveUser(id, newUser)
-}
 ```
-
-<arrow v-click="3" x1="400" y1="420" x2="230" y2="330" color="#564" width="3" arrowSize="1" />
-
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
 
 <style>
 .footnotes-sep {
@@ -132,40 +104,31 @@ function updateUser(id: number, update: User) {
 </style>
 
 ---
-
-# Components
-
-<div grid="~ cols-2 gap-4">
-<div>
-
-You can use Vue components directly inside your slides.
-
-We have provided a few built-in components like `<Tweet/>` and `<Youtube/>` that you can use directly. And adding your custom components is also super easy.
-
-```html
-<Counter :count="10" />
-```
-
-<!-- ./components/Counter.vue -->
-<Counter :count="10" m="t-4" />
-
-Check out [the guides](https://sli.dev/builtin/components.html) for more.
-
-</div>
-<div>
-
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
-</div>
-
-
+layout: center
 ---
-class: px-20
+
+# FEEDO Mini
+
+<br>
+<br>
+
+```
+
+- For aquariums and small scale water bodies
+
+
+- Derivative of feedo v1 without wifi module and android app
+
+
+- LCD screen is used to display details
+
+
+- Lesser cost than Feedo v1
+
+
+- Making it affordable for every peoples
+```
+
 ---
 
 # Themes
