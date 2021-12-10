@@ -39,7 +39,8 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 - Most of the fish farmers suffer great loss due to the improper maintain Ph and temperature of the   water body.
 - In most cases ,unexperienced farmers faces the problem of uneven distribution of food which leads to non uniform growth of fishes and remaining food leads growth to the accumulation of ammonia in water. 
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
+-Fish farmers had to move long distance through water just to feed fishes.
+
 - 🤹 **Interactive** - embedding Vue components to enhance your expressions
 - 🎥 **Recording** - built-in recording and camera view
 - 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
