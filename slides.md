@@ -153,7 +153,7 @@ layout: center
 - Feedo can customize according to users need.
 
 ---
-layout:center
+layout: center
 ---
 # Thank you
 
