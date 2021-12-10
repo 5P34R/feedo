@@ -21,9 +21,9 @@ drawings:
   persist: false
 ---
 
-# Welcome to Slidev
+# Feedo
 
-Presentation slides for developers
+An aquatic farm assistant
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
