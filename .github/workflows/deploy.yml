@@ -17,4 +17,4 @@ jobs:
         with:
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: ${{ secret.GIT_KEY }}
