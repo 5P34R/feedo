@@ -90,56 +90,10 @@ layout: center
 - Attached with water-pump and feed the fished as such the user defined 
 
 
-
-
 ---
 layout: center
 ---
 
-# FEEDO Mini
-
-<br>
-<br>
-
-
-- For aquariums and small scale water bodies
-
-
-- Derivative of feedo v1 without wifi module and android app
-
-
-- LCD screen is used to display details
-
-
-- Lesser cost than Feedo v1
-
-
-- Making it affordable for every peoples
-
-
----
-layout: center
----
-# FEEDO Pro
-
-<br>
-<br>
-
-
-- For large scale farmers
-
-
-- Semi-automatic farm feeding device
-
-
--  Padding around the water body frequently to agitate water
-
-
-- Feed the fished in the water body evenly.
-
----
-layout: center
----
 # ADVANTAGES
 <br>
 <br>
@@ -152,8 +106,12 @@ layout: center
 
 - Feedo can customize according to users need.
 
+- Feedo ensures that the farmers are made aware of the drastic changes in the aquatic environment
+
+- Feeding schedule and amount can be changed quickly, accurately and easily with smartphones.
+
+
 ---
 layout: center
 ---
 # Thank you
-
